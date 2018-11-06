@@ -6,3 +6,5 @@ The next goal is to create incoporate a database to save sensor data across a lo
 https://devpost.com/software/what-the-crop
 
 The Web Development Code: https://github.com/stonecyan/WhatTheCrop
+
+![picture1](https://user-images.githubusercontent.com/15716059/48079219-ebbc0500-e1b8-11e8-887e-e7a4984c14aa.png)
