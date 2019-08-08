@@ -9,7 +9,7 @@ Clone this repository to your **/Documents/Arduino/libraries** folder.
 
 ### Hardware Requirements 
 - [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3)
-- [DHT11 Temperature and Humidity sensor](https://www.amazon.com/Karcy-Accuracy-Digital-Temperature-Humidity/dp/B07FR5SCPP)
+- [DHT11 Temperature and Humidity sensor](https://www.amazon.com/FTCBlock-Temperature-Humidity-Arduino-Raspberry/dp/B07HF7CQHQ)
 - [LDR](https://www.amazon.com/Honbay-Photoresistor-Dependent-Resistor-Sensitive/dp/B07DHDQ8LN)
 - [Capacitive Soil Moisture Sensor](https://www.amazon.com/Anmbest-Sensitivity-Corrosion-Resistant-Capacitive/dp/B07S8K2HLX)
 - [Wifi Module ESP8266](https://www.amazon.com/Diymore-ESP8266-Wireless-Transceiver-Controller/dp/B078Y5VP28)
