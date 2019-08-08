@@ -22,6 +22,7 @@ Clone this repository to your **/Documents/Arduino/libraries** folder.
 The next goal is to create incoporate a database to save sensor data across a long period of time with the goal of visualizing data to better inform decisions. We also want to add further customization in crop selections, sensor parameter alerts, farm/garden size, and sensor node placement. It could also be a possibility to incorporate picture and video to visually track crop growth.
 
 [Devpost](https://devpost.com/software/what-the-crop)
+
 [Web Development](https://github.com/stonecyan/WhatTheCrop)
 
 ![picture1](https://user-images.githubusercontent.com/15716059/48079219-ebbc0500-e1b8-11e8-887e-e7a4984c14aa.png)
